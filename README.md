@@ -12,3 +12,7 @@ Roadmap
 Sprint 1 - Foundation: local kind cluster and cross-OS automated setup
 Sprint 2 - Simulation: failure simulator app, CI/CD and GitOps
 Sprint 3 - Investigation: observability stack and HolmesGPT
+
+## Getting started
+
+See the [local setup guide](docs/getting-started.md) for prerequisites, installation instructions and version checks on Windows, macOS and Linux.
